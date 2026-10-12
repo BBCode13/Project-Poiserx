@@ -1,0 +1,14 @@
+#title {
+    color: black;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    font-size: 21px;
+}
+
+p {
+    color: black;
+    font-size: 17px;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
